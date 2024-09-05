@@ -2,10 +2,10 @@
 
 HNTestMobile is an iOS application that displays recent articles about mobile development from Hacker News. This project is built using Swift and SwiftUI, implementing MVVM architecture, Combine for data binding, and Core Data for local persistence.
 
-## Snapshots
+# Snapshots
 
-<img width="300" width=“500” src="snapshots/snapshot_1.gif"></img>
-<img width="300" width=“500” src="snapshots/snapshot_2.gif"></img>
+<img width="300" width=“500” src="Snapshots/snapshot_1.gif"></img>
+<img width="300" width=“500” src="Snapshots/snapshot_2.gif"></img>
 
 ## Features
 
